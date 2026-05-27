@@ -18,7 +18,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Palouse Choral Society Oral HistoryCollection
+title: Palouse Choral Society Oral History Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Singing on the Palouse since 1972
 # description appears in meta tags and other locations
@@ -27,7 +27,7 @@ description: "This community choir has existed in some form or another on the Pa
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Palouse Choral Society Oral History Collection Team
 
 ##########
 # COLLECTION SETTINGS
