@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Palouse Choral Society Oral HistoryCollection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Singing on the Palouse since 1972
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This community choir has existed in some form or another on the Palouse since 1972. With beginnings as The Friends of Music to its official incorporation into its current form, the Palouse Choral Society, in 2011."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
